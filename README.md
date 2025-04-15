@@ -30,16 +30,20 @@ Créer un système de gestion de personnes avec leurs adresses.
 
 On a créé deux classes :
 
- **ClasseAdresse :** contient la rue, la ville et le code postal.
+   **ClasseAdresse :** contient la rue, la ville et le code postal.
  
- **Classe Personne :** contient le nom, le sexe et une liste d’adresses.
+   **Classe Personne :** contient le nom, le sexe et une liste d’adresses.
  
 On a créé une classe ListePersonnes pour gérer un tableau de personnes et les fonctions:
 
-**findByNom :** chercher une personne par son nom.
+  **findByNom :** chercher une personne par son nom.
 
-**findByCodePostal :** vérifier si une personne possède une adresse avec un code postal donné.
-**countPersonneVille :** compter les personnes d'une ville donnée.
+  **findByCodePostal :** vérifier si une personne possède une adresse avec un code postal donné.
+
+  **countPersonneVille :** compter les personnes d'une ville donnée.
+### Résultat de l'exécution:
+
+![image](https://github.com/user-attachments/assets/4f0b237e-d933-4969-97e7-03d901254011)
 
 
 

@@ -1,13 +1,15 @@
- 📝 # Rapport Atelier 6 : Type Script
+ # 📝 Rapport Atelier 6 : Type Script
 
 ## Objectif général:
 L’objectif principal de ce Travail pratique et de se familiariser avec les concepts de la programmation POO TypeScript.
+
 ## Exercice 1 : 
 
 ### Objectif:
 Implémenter une classe Point avec des coordonnées et des opérations géométriques de base.
 
- 📝 ### Détails:
+ ### 📝 Détails:
+ 
 **Dans cet exercice:**
 
 -On a Définit une classe Point avec deux attributs privés : abs (abscisse) et ord (ordonnée).
@@ -26,7 +28,7 @@ Implémenter une classe Point avec des coordonnées et des opérations géométr
 ### Objectif:
 Créer un système de gestion de personnes avec leurs adresses.
 
-📝 ### Détails:
+ ### 📝 Détails:
 
 On a créé deux classes :
 

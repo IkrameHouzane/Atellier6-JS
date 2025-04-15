@@ -13,8 +13,9 @@ Implémenter une classe Point avec des coordonnées et des opérations géométr
 -On a Fournit des getters et setters.
 -On a implémenté une méthode calculerDistance pour calculer la distance entre deux points.
 ### Compilation et exécution:
-![compiler exo1](https://github.com/user-attachments/assets/a442034a-7879-441b-afb5-ba593a7499bd)
-![execution exo1](https://github.com/user-attachments/assets/505ef12e-0a38-4758-ac92-1910d442f521)
+**![compiler exo1](https://github.com/user-attachments/assets/a442034a-7879-441b-afb5-ba593a7499bd)**
+
+**![execution exo1](https://github.com/user-attachments/assets/505ef12e-0a38-4758-ac92-1910d442f521)**
 
 
 ## Exercice 2 : 

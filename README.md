@@ -9,9 +9,13 @@ Implémenter une classe Point avec des coordonnées et des opérations géométr
 
 ### Détails:
 **Dans cet exercice:**
+
 -On a Définit une classe Point avec deux attributs privés : abs (abscisse) et ord (ordonnée).
+
 -On a Fournit des getters et setters.
+
 -On a implémenté une méthode calculerDistance pour calculer la distance entre deux points.
+
 ### Compilation et exécution:
 **![compiler exo1](https://github.com/user-attachments/assets/a442034a-7879-441b-afb5-ba593a7499bd)**
 
@@ -21,12 +25,19 @@ Implémenter une classe Point avec des coordonnées et des opérations géométr
 ## Exercice 2 : 
 ### Objectif:
 Créer un système de gestion de personnes avec leurs adresses.
+
 ### Détails:
+
 On a créé deux classes :
+
  **ClasseAdresse :** contient la rue, la ville et le code postal.
+ 
  **Classe Personne :** contient le nom, le sexe et une liste d’adresses.
+ 
 On a créé une classe ListePersonnes pour gérer un tableau de personnes et les fonctions:
+
 **findByNom :** chercher une personne par son nom.
+
 **findByCodePostal :** vérifier si une personne possède une adresse avec un code postal donné.
 **countPersonneVille :** compter les personnes d'une ville donnée.
 
